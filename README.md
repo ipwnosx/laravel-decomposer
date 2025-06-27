@@ -133,9 +133,11 @@ composer require lubusin/laravel-decomposer:dev-your-branch
 
 ## Meet Your Artisans
 
-[LUBUS](http://lubus.in) is a web design agency based in Mumbai.
+[LUBUS](http://lubus.in) is a web design agency based in Mumbai, India.
 
-<img src="https://user-images.githubusercontent.com/1039236/40877801-3fa8ccf6-66a4-11e8-8f42-19ed4e883ce9.png" />
+<a href="https://cal.com/lubus">
+<img src="https://raw.githubusercontent.com/lubusIN/.github/refs/heads/main/profile/banner.png" />
+</a>
 
 ## Credits
 
